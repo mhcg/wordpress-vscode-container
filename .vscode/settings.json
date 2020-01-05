@@ -1,0 +1,4 @@
+{
+    "composer.executablePath": "/usr/local/bin/composer",
+    "phpcs.standard": "WordPress"
+}

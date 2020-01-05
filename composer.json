@@ -1,0 +1,14 @@
+{
+    "name": "mhcg/wordpress-vscode-container",
+    "description": "Composer configuration to enable PHP Code Sniffer with the WordPress standard installed.",
+    "license": "GPL-2.0-or-later",
+    "type": "metapackages",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "dealerdirect/phpcodesniffer-composer-installer": "*",
+        "wp-coding-standards/wpcs": "*"
+    }
+}
